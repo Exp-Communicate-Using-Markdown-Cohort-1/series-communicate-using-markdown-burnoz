@@ -6,3 +6,7 @@
 while True:
   print("Hello World!")
 ```
+
+- [ ] Dormir
+- [x] Despertar
+- [ ] Respirar
