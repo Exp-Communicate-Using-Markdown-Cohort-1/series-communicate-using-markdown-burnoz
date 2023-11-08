@@ -1,4 +1,6 @@
-# Header
+# Hola
+## Hola más pequeño
+###### Hola aún más pequeño
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
